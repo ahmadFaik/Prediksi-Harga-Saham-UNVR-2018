@@ -64,11 +64,11 @@ This project forecasts the stock price of **PT Unilever Indonesia Tbk (UNVR)** u
 
 ## 👥 Data Science Team
 
-- [Ahmad Faik Setiawan](https://github.com/faiksetiawan)
-- [Yora Okta Aviani Rahardjo](https://github.com/yoraokta)
+- [Ahmad Faik Setiawan](https://github.com/ahmadFaik)
+- [Yora Okta Aviani Rahardjo](https://github.com/yoraoktaar)
 - [Meriani Alexandra](https://github.com/jovellexa-code)
 - [Ditya Ayu Anjani](https://github.com/dityaanjani)
 - [Mauritz Labaro Lumban Gaol](https://github.com/mauritzlabora)
-- [Kaila Amira Azzahra](https://github.com/kailaamira)
+- [Kaila Amira Azzahra](https://github.com/filekeyholder)
 
 ---
