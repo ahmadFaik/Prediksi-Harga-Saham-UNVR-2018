@@ -1,5 +1,4 @@
 # 📈 UNVR Stock Forecasting with Prophet (2013–2017)
-![univ.webp](attachment:6f4c4278-67b6-4a92-a5ed-2c1e11dc30ab.webp)
 
 ## 🔍 Project Overview
 This project forecasts the stock price of **PT Unilever Indonesia Tbk (UNVR)** using **Prophet**, a powerful time series model developed by Meta. We applied hyperparameter tuning, time-based cross-validation, and rigorous visual evaluation to simulate real-world forecasting for investment scenarios.
