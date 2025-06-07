@@ -1,6 +1,6 @@
 # 📈 UNVR Stock Forecasting with Prophet (2013–2017)
 
-![Unilever Forecasting](Presentation/Unilever_Forecasting.gif)
+![Unilever Forecasting](Presentation/UNVR_Forecasting.gif)
 
 ## 🔍 Project Overview
 
